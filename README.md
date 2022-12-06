@@ -9,7 +9,6 @@
 ### option two
 1. Download the github repo
 2. Run the notebook in your local machine 
-'''
+```console
 jupyter notebook notebook.ipynb
-'''
-
+```
