@@ -3,7 +3,7 @@
 ## How to run
 
 ### option one
-1. Open dataclean_lda_6607project.ipynb and click the left-uppper colab logal.
+1. Open dataclean_lda_6607project.ipynb and click the upper left colab logal.
 1. Upload all the csv files to colab.
 2. Run each cell accordingly.
 
