@@ -10,5 +10,5 @@
 1. Download the github repo
 2. Run the notebook in your local machine 
 ```console
-jupyter notebook notebook.ipynb
+jupyter notebook dataclean_lda_6607project.ipynb
 ```
