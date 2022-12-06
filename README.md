@@ -2,18 +2,5 @@
 
 ## How to run
 
-## Data Clean
-
-
-## LDA extracte topic
-
-
-## Bin map
-
-
-## PLOT
-
-## Result Analysis
-
-
-
+1. Upload all the csv files to colab
+2. Run each cell accordingly
